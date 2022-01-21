@@ -4,9 +4,6 @@
 #home{
     margin-top: 100px;
 }
-.banner-padding{
-    padding: 50px 150px;
-}
 .catagories{
     text-decoration: none;
 }
@@ -24,6 +21,10 @@
     color:white;
 }
 .my-img{
-    height:100px;
-    width:100px;
+    height:60px;
+    width:50px;
+    margin-right: 5px;
+}
+.my-img img{
+    width:100%;
 }
