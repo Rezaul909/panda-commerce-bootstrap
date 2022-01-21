@@ -1,0 +1,29 @@
+.default-color{
+    background-color:#FCEAE8;
+}
+#home{
+    margin-top: 100px;
+}
+.banner-padding{
+    padding: 50px 150px;
+}
+.catagories{
+    text-decoration: none;
+}
+
+.btn-color{
+    background-color:#FF5599;
+    border:none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    color:white;
+    font-weight:500;
+}
+.bg-footer{
+    background-color:#2C1A4D;
+    color:white;
+}
+.my-img{
+    height:100px;
+    width:100px;
+}
